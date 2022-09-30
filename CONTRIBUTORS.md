@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Kanishk Khurana](https://github.com/KanishkKhurana)
+- Place: Bombay, India
+- Bio: React Developer and Blockchain Enthusiast
+- Github: [Kanishk Khurana](https://github.com/KanishkKhurana)
