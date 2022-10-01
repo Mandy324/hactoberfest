@@ -2432,3 +2432,8 @@ Noida
 - Place: Bombay, India
 - Bio: React Developer and Blockchain Enthusiast
 - Github: [Kanishk Khurana](https://github.com/KanishkKhurana)
+
+#### Name: [Tanmoy Sengupta](https://github.com/TSG405)
+- Place: West Bengal, India
+- Bio: Python and Data engineer
+- Github: [Tanmoy Sengupta](https://github.com/TSG405)
