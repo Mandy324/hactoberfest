@@ -13,6 +13,11 @@
 - Bio: Software Developer
 - GitHub: [Alex Marrujo](https://github.com/marrujoalex)
 
+#### Name: [Martin](https://github.com/martin-3107)
+- Place: Gujarat, India
+- Bio: NIT Surat CSE
+- GitHub: [martin-3107](https://github.com/martin-3107)
+
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
