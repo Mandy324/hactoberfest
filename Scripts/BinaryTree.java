@@ -1,6 +1,4 @@
-package concepts;
-
-
+package File6_Recursion.Scripts;
 
 /* Class containing left and right child of current
 node and key value*/
