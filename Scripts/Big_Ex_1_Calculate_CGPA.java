@@ -1,4 +1,4 @@
-package concepts;
+package File6_Recursion.Scripts;
 import java.util.Scanner;
 public class Big_Ex_1_Calculate_CGPA {
 	public static void main(String[] args) {

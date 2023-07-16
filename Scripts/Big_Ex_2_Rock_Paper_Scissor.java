@@ -1,14 +1,11 @@
-package concepts;
+package File6_Recursion.Scripts;
 import java.util.Scanner;
 import java.util.Random;
 public class Big_Ex_2_Rock_Paper_Scissor {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		Random rd = new Random();
-		
 
-		
-		
 		int comp = 0, user = 0, count=1;
 		
 		do {
